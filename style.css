@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    font-style: italic;
+    
+}
+p{
+    color: red;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{ 
+    background-color: springgreen;
+    text-align: center;
+    margin: 0;
+}
